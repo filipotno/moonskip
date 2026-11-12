@@ -1,0 +1,8 @@
+signing/
+*.jks
+*.keystore
+*.p12
+*.pem
+.env*
+node_modules/
+browser-profile*/
