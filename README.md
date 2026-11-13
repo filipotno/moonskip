@@ -21,7 +21,7 @@ b25eea83471b9f2688089d358feb2c8bee1291e2bf69106626c225ec6565d86f
 
 [Visit the website](https://filipotno.github.io/moonskip/)
 
-The simple, mobile-friendly website lives in `docs/`. It includes the APK download, gameplay preview, installation help, and a light/dark theme.
+The simple, mobile-friendly website lives in `docs/`. It includes a gameplay preview, a light/dark theme, and a button leading here for the APK and installation instructions.
 
 ## In this version
 
@@ -31,3 +31,4 @@ The simple, mobile-friendly website lives in `docs/`. It includes the APK downlo
 - Ship color and sound settings.
 
 This repository contains the public download and website. Private signing material is excluded.
+
