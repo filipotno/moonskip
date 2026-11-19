@@ -1,34 +1,14 @@
 # Moon Skip
+Switch rings, dodge asteroids, and collect gold around six planetary worlds.
 
-A little orbital arcade game for Android by **filipotno**.
+**[Download Moon Skip 1.5 for Android](https://github.com/filipotno/moonskip/raw/refs/heads/main/docs/downloads/Moon-Skip-1.5.apk)** · [Website](https://filipotno.github.io/moonskip/)
 
-Switch rings, dodge asteroids, collect coins, and chase a higher score around different planets.
+Open the APK on an Android 7.0+ device and follow the installer. Install over 1.4 to update.
 
-## Download version 1.4
+In solo flight, collect gold for points and coins. Eight coins buy a five-second launch shield in Ship & sound. A red orb grants a ten-second shield during flight.
 
-[Download Moon-Skip-1.4.apk](https://github.com/filipotno/moonskip/raw/refs/heads/main/docs/downloads/Moon-Skip-1.4.apk)
+Choose **Orbit duel** to play with a friend on one phone. Each pilot has two steering buttons. Fly into the gap in each of 16 gates. Whoever clears more gates wins.
 
-Android 7.0 or newer. APK size: 189,901 bytes.
+Version 1.5 adds orbital music, louder effects, hull previews, and more consistent solo asteroid spacing.
 
-Open the APK on your Android device to install. If Android asks, allow installation from the browser used to download it. Version 1.4 can update the original 1.3 installation without uninstalling it.
-
-SHA-256:
-```
-b25eea83471b9f2688089d358feb2c8bee1291e2bf69106626c225ec6565d86f
-```
-
-## Website
-
-[Visit the website](https://filipotno.github.io/moonskip/)
-
-The simple, mobile-friendly website lives in `docs/`. It includes a gameplay preview, a light/dark theme, and a button leading here for the APK and installation instructions.
-
-## In this version
-
-- Choose 2–8 rings and different flight difficulties.
-- Randomized asteroids and six planetary worlds.
-- A rechargeable laser for clearing an asteroid ahead.
-- Ship color and sound settings.
-
-This repository contains the public download and website. Private signing material is excluded.
-
+APK SHA-256: DA09AD3E90F3F8B0C80F29AD1102897FDB29902F40CCE63F51AF52AD734C37C7
